@@ -4,5 +4,3 @@
 Zbiór reguł do ochrony serwera Minecraft przed atakami DDoS.
 
 Plik zawiera w sobie Basic Porty, określone zapory Aegis dla określonego portu, oraz blokowanie samego 25565 portu.
-
-Skoro już tutaj trafiłeś, zapewne wiesz co się z czym je. Jeżeli jednak nie, już śpiesze z pomocą.
